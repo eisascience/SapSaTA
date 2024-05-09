@@ -1,0 +1,12 @@
+name: SapSpaTA
+title: SapSpaTA
+username: conradlab
+account: conradlab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11972178
+bundleId: 8597637
+url: https://conradlab.shinyapps.io/SapSpaTA/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
